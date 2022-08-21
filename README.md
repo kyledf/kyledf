@@ -7,7 +7,7 @@
 
 - 💼 I’m looking work **in front end or full stack development roles**
 
-- 👨‍💻 View my projects and check out my portfolio at [https://kyledf.me](https://kyledf.me)
+- 👨‍💻 View my projects and check out my portfolio at [https://kyledf.me](kyledf.me)
 
 - 📫 How to reach me **kyledanielfrancis@gmail.com**
 

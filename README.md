@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kyle Francis</h1>
+<h1 align="center">Hello I am Kyle Francis</h1>
 <h3 align="center">Software Engineer</h3>
 
 - 🔭 I’m currently working on **completing my Bachelor of Engineering (Honours) at AUT**
@@ -7,13 +7,16 @@
 
 - 💼 I’m looking work **in front end or full stack development roles**
 
-- 👨‍💻 View my projects and contact me on my portfolio at <a href="https://kyledf.me" target="_blank">kyledf.me</a>
+- 👨‍💻 View my projects and contact me at **[kyledf.me](https://kyledf.me)**
+
+- 📫 How to reach me **kyledanielfrancis@gmail.com**
 
 - ⚡ Fun fact **I have been to every continent, except Antarctica!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kyledf" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kyledf" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kyledf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kyledf" height="30" width="40" /></a>
+<a href="https://instagram.com/kf5000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kf5000" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

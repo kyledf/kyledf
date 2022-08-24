@@ -1,6 +1,6 @@
-<h3 align="center">Hello I am</h3>
+<h5 align="center">Hello I am</h5>
 <h1 align="center">Kyle Francis</h1>
-<h3 align="center">Software Engineer</h3>
+<h5 align="center">Software Engineer</h5>
 
 - 🔭 I’m currently working on **completing my Bachelor of Engineering (Honours) at AUT**
 

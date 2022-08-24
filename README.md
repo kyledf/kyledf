@@ -7,9 +7,7 @@
 
 - 💼 I’m looking work **in front end or full stack development roles**
 
-- 👨‍💻 View my projects and check out my portfolio at <a href="https://kyledf.me" target="_blank">kyledf.me</a>
-
-- 📫 How to reach me **kyledanielfrancis@gmail.com**
+- 👨‍💻 View my projects and contact me on my portfolio at <a href="https://kyledf.me" target="_blank">kyledf.me</a>
 
 - ⚡ Fun fact **I have been to every continent, except Antarctica!**
 

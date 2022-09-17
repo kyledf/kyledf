@@ -10,8 +10,6 @@
 
 - 👨‍💻 View my projects and contact me at **[kyledf.me](https://kyledf.me)**
 
-- 📫 How to reach me **kyledanielfrancis@gmail.com**
-
 - ⚡ Fun fact **I have been to every continent, except Antarctica!**
 
 <h3 align="left">Connect with me:</h3>

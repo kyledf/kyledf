@@ -2,15 +2,15 @@
 <h1 align="center">Kyle Francis</h1>
 <h5 align="center">Software Engineer</h5>
 
-- 🔭 I’m currently working on **completing my Bachelor of Engineering (Honours) at AUT**
+- 🎓 I’m currently working on **completing my Bachelor of Engineering (Honours) at AUT**
 
-- 🌱 I’m currently learning **more about full stack development**
+- 🤔 I’m currently learning **more about full stack development**
 
 - 💼 I’m looking work **in front end or full stack development roles**
 
 - 👨‍💻 View my projects and contact me at **[kyledf.me](https://kyledf.me)**
 
-- ⚡ Fun fact **I have been to every continent, except Antarctica!**
+- 🌎 Fun fact **I have been to every continent, except Antarctica!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

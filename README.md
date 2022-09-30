@@ -6,7 +6,7 @@
 
 - 🤔 I’m currently learning **more about full stack development**
 
-- 💼 I’m looking work **in front end or full stack development roles**
+- 💼 I’m looking for work **in front end or full stack development roles**
 
 - 👨‍💻 View my projects and contact me at **[kyledf.me](https://kyledf.me)**
 

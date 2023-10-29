@@ -8,7 +8,7 @@
 
 - 💼 I’m looking for work **in front end or full stack development roles**
 
-- 👨‍💻 View my projects and contact me at **[kyledf.github,io](https://kyledf.github,io)**
+- 👨‍💻 View my projects and contact me at **[kyledf.github.io](https://kyledf.github.io)**
 
 - 🌎 Fun fact **I have been to every continent, except Antarctica!**
 
